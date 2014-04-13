@@ -5,4 +5,4 @@ dist
 app/bower_components
 .DS_Store
 
-.swp
+*.swp
